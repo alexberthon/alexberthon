@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ex Product Manager turned rails developer, I'm currently working on [Zenloop](https://www.zenloop.app/ "Zenloop website")!
+Ex Product Manager turned rails developer, I'm currently working on [TrainStory](https://www.trainstory.eu "TrainStory website")!
 
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/alexandreberthon/ "Let's connect on LinkedIn").
 
